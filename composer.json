@@ -1,0 +1,21 @@
+{
+    "name": "gfelixc/grpc-wksh-php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "George Felix",
+            "email": "gfelixc@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FlightOperator\\": "FlightSDK/FlightOperator/",
+            "GPBMetadata\\": "FlightSDK/GPBMetadata/"
+        }
+    },
+    "require": {
+        "google/protobuf": "v3.13.0.1",
+        "ext-grpc": "^1.32",
+        "grpc/grpc": "^1.30"
+    }
+}
