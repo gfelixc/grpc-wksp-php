@@ -1,6 +1,6 @@
-#grpc-wksh-php
+# grpc-wksh-php
 
-This repository has a main goal connected to grpc services 
+This repository has a main goal connected to grpc services using PHP
 
 ## Running examples
 
